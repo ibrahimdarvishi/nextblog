@@ -13,13 +13,13 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, I’m <strong>Shu</strong>. I’m a software engineer and a
-          translator (English/Japanese). You can contact me on{' '}
-          <a href="https://twitter.com/chibicode">Twitter</a>.
+          Hello, I’m <strong>Ibrahim</strong>. I’m a IT engineer and speaking
+          two languages (English/Persian). You can contact me on{' '}
+          <a href="https://www.facebook.com/ibrahim.darvishi">Facebook</a>.
         </p>
         <p>
-          (This is a sample website - you’ll be building a site like this in{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          (This is a sample website - Please follow me on Youtube for more videos{' '}
+          <a href="https://www.youtube.com/@fixingland">our Cell Phone Repair tutorial</a>.)
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
